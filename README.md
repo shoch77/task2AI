@@ -17,7 +17,7 @@ in another terminal, we run the Turtlesim Node by typing this command:
 $ rosrun turtlesim turtlesim_node
 ~~~
 
-<img src=https://github.com/user-attachments/assets/3b297005-ddd9-44c2-b072-c2457502e9fb width=50%>
+<img src=https://github.com/user-attachments/assets/3b297005-ddd9-44c2-b072-c2457502e9fb width=80%>
 
 by typing this, the window for the Turtle will pop up as you can see.
 <br><br>
